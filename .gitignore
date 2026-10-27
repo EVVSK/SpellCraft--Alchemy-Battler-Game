@@ -1,0 +1,13 @@
+# Cloudflare/Wrangler generated state and caches
+.wrangler/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+name = "spellcraft-ai-proxy"
+main = "worker.js"
+compatibility_date = "2026-10-01"
+
+# GitHub Pages project URL:
+# https://evvsk.github.io/SpellCraft--Alchemy-Battler-Game/
+# CORS uses the origin only; do not include the repository path.
+[vars]
+ALLOWED_ORIGINS = "https://evvsk.github.io"
+
+# After deploying with `npx wrangler deploy`, set your secret key via:
+# npx wrangler secret put GEMINI_API_KEY
