@@ -1,3 +1,5 @@
+### Live Game at *https://evvsk.github.io/SpellCraft--Alchemy-Battler-Game/*
+
 # 🔮 Spellcraft: AI Alchemy Card Battler
 
 Spellcraft is a browser-based fantasy card battler that combines **Infinite
